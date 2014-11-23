@@ -1,3 +1,11 @@
-# color-name
+A JSON with color names and is’s values.
 
-A JSON with color names and their’s values.
+[![NPM](https://nodei.co/npm/color-name.png?mini=true)](https://nodei.co/npm/color-name/)
+
+
+```js
+var colors = require('color-name');
+colors.red //[255,0,0]
+```
+
+<a href="http://unlicense.org/UNLICENSE"><img src="http://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" width="40"/></a>
