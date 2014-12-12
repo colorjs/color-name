@@ -1,4 +1,4 @@
-A JSON with color names and is’s values.
+A JSON with color names and it’s values.
 
 [![NPM](https://nodei.co/npm/color-name.png?mini=true)](https://nodei.co/npm/color-name/)
 
