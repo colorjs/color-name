@@ -1,4 +1,4 @@
-A JSON with color names and it’s values.
+A JSON with color names and it’s values. Based on http://dev.w3.org/csswg/css-color/#valdef-color-rebeccapurple.
 
 [![NPM](https://nodei.co/npm/color-name.png?mini=true)](https://nodei.co/npm/color-name/)
 
