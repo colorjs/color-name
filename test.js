@@ -1,3 +1,5 @@
+'use strict'
+
 var names = require('./');
 var assert = require('assert');
 
