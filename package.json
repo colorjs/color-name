@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dfcreative/color-name.git"
+    "url": "git@github.com:colorjs/color-name.git"
   },
   "keywords": [
     "color-name",
@@ -22,7 +22,7 @@
   "author": "DY <dfcreative@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dfcreative/color-name/issues"
+    "url": "https://github.com/colorjs/color-name/issues"
   },
-  "homepage": "https://github.com/dfcreative/color-name"
+  "homepage": "https://github.com/colorjs/color-name"
 }
