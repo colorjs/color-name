@@ -1,4 +1,4 @@
-import assert from 'assert';
+import assert from 'node:assert';
 import names from './index.js';
 
 assert.deepEqual(names.red, [255,0,0]);
