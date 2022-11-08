@@ -4,7 +4,7 @@ A JSON with color names and its values. Based on http://dev.w3.org/csswg/css-col
 
 
 ```js
-var colors = require('color-name');
+import colors from 'color-name';
 colors.red //[255,0,0]
 ```
 

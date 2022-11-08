@@ -1,11 +1,15 @@
 {
   "name": "color-name",
-  "version": "1.1.4",
+  "version": "2.0.0",
   "description": "A list of color names and its values",
   "main": "index.js",
+  "type": "module",
   "files": [
     "index.js"
   ],
+  "engines": {
+    "node": ">=12.20"
+  },
   "scripts": {
     "test": "node test.js"
   },
