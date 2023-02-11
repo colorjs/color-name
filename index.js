@@ -4,6 +4,7 @@ export default {
 	aqua: [0, 255, 255],
 	aquamarine: [127, 255, 212],
 	azure: [240, 255, 255],
+	amethyst: [153, 102, 204],
 	beige: [245, 245, 220],
 	bisque: [255, 228, 196],
 	black: [0, 0, 0],
