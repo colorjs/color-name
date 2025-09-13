@@ -5,7 +5,7 @@ A JSON with color names and its values. Based on http://dev.w3.org/csswg/css-col
 
 ```js
 import colors from 'color-name';
-colors.red //[255,0,0]
+colors.red // [255,0,0]
 ```
 
 <a href="LICENSE"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MIT_logo.svg" width="120"/></a>
