@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/colorjs/color-name.git"
+    "url": "git+https://github.com/colorjs/color-name.git"
   },
   "keywords": [
     "color-name",
